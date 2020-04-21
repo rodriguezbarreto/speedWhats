@@ -1,0 +1,12 @@
+.btnSpeed{
+    color: gray;
+    font-size: 1.1rem;
+    font-weight: bold;
+    background: transparent;
+    border: none;
+}
+.btnSpeed:hover{
+    color:#4CED69;
+    transform: scale(1.06);
+    
+}
